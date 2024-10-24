@@ -1,3 +1,5 @@
+// Passing data from parent to child component;
+
 import React, {useState} from 'react'
 
 const  ChildComponent  = ({message}) =>  {
